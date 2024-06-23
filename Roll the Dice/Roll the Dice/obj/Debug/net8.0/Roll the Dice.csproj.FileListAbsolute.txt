@@ -1,0 +1,25 @@
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\bin\Debug\net8.0\appsettings.json
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\bin\Debug\net8.0\Roll the Dice.exe
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\bin\Debug\net8.0\Roll the Dice.deps.json
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\bin\Debug\net8.0\Roll the Dice.runtimeconfig.json
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\bin\Debug\net8.0\Roll the Dice.dll
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\bin\Debug\net8.0\Roll the Dice.pdb
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\Roll the Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\Roll the Dice.AssemblyInfoInputs.cache
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\Roll the Dice.AssemblyInfo.cs
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\Roll the Dice.csproj.CoreCompileInputs.cache
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\Roll the Dice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\staticwebassets\msbuild.Roll the Dice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\staticwebassets\msbuild.build.Roll the Dice.props
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Roll the Dice.props
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Roll the Dice.props
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\scopedcss\bundle\Roll the Dice.styles.css
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\Roll the Dice.dll
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\refint\Roll the Dice.dll
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\Roll the Dice.pdb
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\Roll the Dice.genruntimeconfig.cache
+C:\Users\vrind\source\repos\Roll the Dice\Roll the Dice\obj\Debug\net8.0\ref\Roll the Dice.dll

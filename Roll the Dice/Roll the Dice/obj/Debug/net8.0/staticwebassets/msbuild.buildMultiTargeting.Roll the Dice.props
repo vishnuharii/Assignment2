@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Roll the Dice.props" />
+</Project>
