@@ -1,0 +1,6 @@
+@CoinToss_HostAddress = http://localhost:5011
+
+GET {{CoinToss_HostAddress}}/CoinToss/
+Accept: application/json
+
+###
