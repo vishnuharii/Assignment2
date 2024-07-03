@@ -57,3 +57,34 @@ Clone this repository.
 Open the solution in Visual Studio (or any preferred IDE).
 Build and run the application.
 Use a tool like Postman or your web browser to make GET requests to the endpoint specified above.
+
+
+J3 controller- Coin Toss Probability Calculator
+
+This project implements an ASP.NET Core minimal API to calculate the probability of getting a specified number of heads in a series of coin tosses.
+
+API Endpoint
+
+Endpoint
+
+- `/api/J3/CoinTossProbability/{n}/{heads}`
+ Parameters
+
+- `{n}`: Represents the total number of coin tosses (1 ≤ n ≤ 100).
+- `{heads}`: Indicates the number of heads for which the probability is calculated (0 ≤ {heads} ≤ n).
+
+Example Usage
+
+- `GET /api/J3/CoinTossProbability/3/2` 
+  - Returns: "The probability of getting 2 heads in 3 coin tosses is 0.375."
+
+- `GET /api/J3/CoinTossProbability/4/1`
+  - Returns: "The probability of getting 1 heads in 4 coin tosses is 0.25."
+
+ Implementation Details
+
+The API calculates the probability using the binomial probability formula:
+
+```csharp
+double probability = BinomialCoefficient(n, heads) * Math.Pow(0.5, n);
+
