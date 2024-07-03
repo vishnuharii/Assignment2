@@ -8,6 +8,13 @@ namespace Assignment2
     [RoutePrefix("api/J1")]
     public class J1Controller : ApiController
     {
+        // Calorie counts for each menu item
+        // Burger calories: index 0 corresponds to choice 1, index 1 to choice 2, etc.
+        int[] burgerCalories = { 461, 431, 420, 0 }; // Chicken Burger, Fish Burger, Veggie Burger, No Burger
+        int[] drinkCalories = { 130, 160, 118, 0 }; // Soft Drink, Orange Juice, Milk, No Drink
+        int[] sideCalories = { 100, 57, 70, 0 };    // Fries, Baked Potato, Chef Salad, No Side
+        int[] dessertCalories = { 167, 266, 75, 0 }; // Apple Pie, Sundae, Fruit Cup, No Dessert
+
         /// <summary>
         /// Calculates the total calorie count based on the selected menu items.
         /// </summary>
@@ -29,12 +36,6 @@ namespace Assignment2
             {
                 return "Invalid input. Please ensure all choices are between 1 and 4.";
             }
-
-            // Calorie counts for each menu item
-            int[] burgerCalories = { 461, 431, 420, 0 };
-            int[] drinkCalories = { 130, 160, 118, 0 };
-            int[] sideCalories = { 100, 57, 70, 0 };
-            int[] dessertCalories = { 167, 266, 75, 0 };
 
             // Calculate total calories
             int totalCalories = burgerCalories[burger - 1] + drinkCalories[drink - 1] + sideCalories[side - 1] + dessertCalories[dessert - 1];
